@@ -102,3 +102,17 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data files
+course_offerings.csv
+courses.csv
+database.sqlite3
+grade_distributions.csv
+grades.sql
+instructors.csv
+rooms.csv
+schedules.csv
+sections.csv
+subject_memberships.csv
+subjects.csv
+teachings.csv
