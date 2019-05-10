@@ -1,8 +1,8 @@
-# Module 2 Final Project 
+# Module 2 Final Project
+----------------
+### 2019.05.10
 
-<b>2019.05.10</b>
-
-<b>Hypo-testing-UW-madison - Team David Kaspar & Hussein Sajid<b> 
+### Hypo-testing-UW-madison - Team David Kaspar & Hussein Sajid
 
 [Final Jupyter Notebook](Link Needed)
 
@@ -15,4 +15,5 @@ There are more than 9,000 courses in this dataset. There are nearly 200,000 cour
 Found [here (link to kaggle.com)](https://www.kaggle.com/Madgrades/uw-madison-courses)
 
 We analyzed the overall average GPA from all classes that reported A-F style, completely omitting any (pass / fail) or other student achievement reporting methods. After transforming the possible grades: [A, AB, B, BC, C, D, F] onto the 4.0 GPA scale, we computed the weighted average based on class size for the entire dataset. We then randomly sampled 2000 records and computed a confidence interval for the population mean GPA utilizing bootstrapping for an empirical result.
-Github Repository Found [Here](https://github.com/UpwardTrajectory/ds-challenge-08_boostrapping_seattle-ds-career-040119)
+
+-----------------
